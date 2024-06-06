@@ -1,0 +1,11 @@
+scratchpad_space = 8
+launch_timeout = 5
+
+[[scratchpad]]
+name = "obsidian"
+target_type = "app"
+target = "Obsidian"
+position = [200, 200]
+size = [2160, 1040]
+launch_type = "app"
+launch_command = "Obsidian.app"
